@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\CCS3\\demo1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{75B4996C-3D4F-41A1-901C-11DB0F45F4C0}|lab01-02\\lab01-02.csproj|d:\\ccs3\\demo1\\lab01-02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B4996C-3D4F-41A1-901C-11DB0F45F4C0}|lab01-02\\lab01-02.csproj|solutionrelative:lab01-02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B4996C-3D4F-41A1-901C-11DB0F45F4C0}|lab01-02\\lab01-02.csproj|d:\\ccs3\\demo1\\lab01-02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B4996C-3D4F-41A1-901C-11DB0F45F4C0}|lab01-02\\lab01-02.csproj|solutionrelative:lab01-02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{18375167-364F-460D-A17E-D0C7B1F6EA75}|demo1\\demo1.csproj|d:\\ccs3\\demo1\\demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18375167-364F-460D-A17E-D0C7B1F6EA75}|demo1\\demo1.csproj|solutionrelative:demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,24 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\CCS3\\demo1\\lab01-02\\Student.cs",
+              "RelativeDocumentMoniker": "lab01-02\\Student.cs",
+              "ToolTip": "D:\\CCS3\\demo1\\lab01-02\\Student.cs",
+              "RelativeToolTip": "lab01-02\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:16:44.154Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CCS3\\demo1\\demo1\\Program.cs",
-              "RelativeDocumentMoniker": "demo1\\Program.cs",
-              "ToolTip": "D:\\CCS3\\demo1\\demo1\\Program.cs*",
-              "RelativeToolTip": "demo1\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\CCS3\\demo1\\lab01-02\\Program.cs",
+              "RelativeDocumentMoniker": "lab01-02\\Program.cs",
+              "ToolTip": "D:\\CCS3\\demo1\\lab01-02\\Program.cs",
+              "RelativeToolTip": "lab01-02\\Program.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAIwJwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T03:04:03.003Z",
+              "WhenOpened": "2024-12-03T03:16:02.535Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CCS3\\demo1\\demo1\\Program.cs",
+              "RelativeDocumentMoniker": "demo1\\Program.cs",
+              "ToolTip": "D:\\CCS3\\demo1\\demo1\\Program.cs",
+              "RelativeToolTip": "demo1\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:04:03.003Z",
+              "EditorCaption": ""
             }
           ]
         }
