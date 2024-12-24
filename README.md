@@ -31,5 +31,5 @@
 ## 🚀 **Hướng Dẫn Sử Dụng**  
 1. **🔗 Clone repository**:  
    ```bash
-   git clone [URL_REPO]
+   git clone []
    cd [Tên thư mục]
